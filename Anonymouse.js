@@ -1244,6 +1244,632 @@ break
 
 //TV LIST
 ///=house of the dragon
+		
+//the sandbox
+		
+
+
+
+
+case 'sandman' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `${pushname}
+	*💤...  𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) ...💤*`
+
+                let buttons = [
+                    {buttonId: 'sandman-e1', buttonText: {displayText: 'Episode 01'}, type: 1},
+                    {buttonId: 'sandman-e2', buttonText: {displayText: 'Episode 02'}, type: 1},
+                    {buttonId: 'sandman-next', buttonText: {displayText: 'NEXT'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BMTIyZDEzZjEtNjJjNC00MmMzLWE3MmEtYjY1ZDg0YzA1ZWNlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY1200_CR90,0,630,1200_AL_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+case 'sandman-next' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `${pushname}
+	*💤...  𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) ...💤*`
+
+                let buttons = [
+                    {buttonId: 'sandman-e3', buttonText: {displayText: 'Episode 03'}, type: 1},
+                    {buttonId: 'sandman-e4', buttonText: {displayText: 'Episode 04'}, type: 1},
+                    {buttonId: 'sandman-next-1', buttonText: {displayText: 'NEXT'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BMTIyZDEzZjEtNjJjNC00MmMzLWE3MmEtYjY1ZDg0YzA1ZWNlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY1200_CR90,0,630,1200_AL_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+case 'sandman-next-1' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `${pushname}
+	*💤...  𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) ...💤*`
+
+                let buttons = [
+                    {buttonId: 'sandman-e5', buttonText: {displayText: 'Episode 05'}, type: 1},
+                    {buttonId: 'sandman-e6', buttonText: {displayText: 'Episode 06'}, type: 1},
+                    {buttonId: 'sandman-next-2', buttonText: {displayText: 'NEXT'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BMTIyZDEzZjEtNjJjNC00MmMzLWE3MmEtYjY1ZDg0YzA1ZWNlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY1200_CR90,0,630,1200_AL_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+case 'sandman-next-2' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `${pushname}
+	*💤...  𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) ...💤*`
+
+                let buttons = [
+                    {buttonId: 'sandman-e7', buttonText: {displayText: 'Episode 07'}, type: 1},
+                    {buttonId: 'sandman-e8', buttonText: {displayText: 'Episode 08'}, type: 1},
+                    {buttonId: 'sandman-next-3', buttonText: {displayText: 'NEXT'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BMTIyZDEzZjEtNjJjNC00MmMzLWE3MmEtYjY1ZDg0YzA1ZWNlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY1200_CR90,0,630,1200_AL_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+case 'sandman-next-3' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `${pushname}
+	*💤...  𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) ...💤*`
+
+                let buttons = [
+                    {buttonId: 'sandman-e9', buttonText: {displayText: 'Episode 09'}, type: 1},
+                    {buttonId: 'sandman-e10', buttonText: {displayText: 'Episode 10'}, type: 1},
+                    {buttonId: 'sandman-next-3', buttonText: {displayText: 'NEXT'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BMTIyZDEzZjEtNjJjNC00MmMzLWE3MmEtYjY1ZDg0YzA1ZWNlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY1200_CR90,0,630,1200_AL_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+//ep
+
+
+case 'sandman-e1' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022)| යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 1 (Sleep of the Just)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - 54𝙼*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 553𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*හා හා පුරා නිකුත් කරන පළවෙනි කොටස නිසා මං කතාව ගැන වැඩිපුර කියන්න උත්සහ කරන්නේ නැහැ. මේ කොටස හරහා ඔයාලට ඩ්‍රීම්ව (ඒ කියන්නේ සෑන්ඩ්මෑන්ව) පියවි ලෝකයේ මිනිසුන් ( ඒ කියන්නේ අපි වගේ අය) තමන්ගේ සිහින වෙනුවෙන් සිරගත කරන හැටි සහ ඩ්‍රීම් අවුරුදු සිය ගණනකට පස්සේ නිදහස් වෙලා තමන්ගේ බිඳ වැටුණු සිහින රාජධානිය නැවත ගොඩ නගන්න පා තබන හැටි බලා ගන්න පුළුවන්.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-01', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+
+case 'sandman-e2' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022)| යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 2 (Imperfect Hosts)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - 37𝙼*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 461𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*Morpheus කුප්‍රකට ලෙස ක්‍රියා විරහිත සහෝදරයන් යුගලයක් වෙත පැමිණීමෙන් ඔහුගේ බලයේ මෙවලම් - ඔහුගේ වැලි, රූබි සහ හෙල්ම් සොයා ගැනීමේ ඔහුගේ ගවේෂණය ආරම්භ කරයි.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-02', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+case 'sandman-e3' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) |  යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 3 (Dream a Little Dream of Me)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - n/a*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 357𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*Morpheus ඔහුගේ වැලි සන්තකයේ අවසන් වරට දන්නා පුද්ගලයා සොයා ගනී - සහ මනුෂ්‍යත්වය පිළිබඳ අනපේක්ෂිත පාඩමක් ලබා ගනී. එතෙල් ඇගේ පුතා බැලීමට යයි.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-03', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+
+case 'sandman-e4' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) |  යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 4 (A Hope in Hell)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - n/a*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 406𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*ඔහුගේ සුක්කානම කොහේද යන්න පිළිබඳ මඟ පෙන්වීමක් ලුසිෆර් සමඟ ප්‍රේක්ෂකයින් සෙවීමට මෝෆියස්ට බල කරයි. ව්‍යාකූල ජෝන්ට හොඳ සමරිතානුවෙකුගෙන් උපකාරයක් ලැබේ.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-04', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+
+
+case 'sandman-e5' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) |  යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 5 (24/7)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - n/a*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 401𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*Morpheus අසුවීමත් සමඟ, ජෝන් ඔහු වටා සිටින මිනිසුන් නැරඹීම සඳහා රාත්‍රී භෝජන සංග්‍රහයක පදිංචි වේ - සහ සත්‍යය සහ බොරුව පිළිබඳ ඔහුගේ න්‍යාය භයානක පරීක්ෂණයකට ලක් කළේය.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-05', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+case 'sandman-e6' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) |  යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 6 (The Sound of Her Wings)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - n/a*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 718𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*තරමක් රළු බවක් දැනේ, Morpheus ඔහුගේ වෙහෙස මහන්සි වී වැඩ කරන ලොකු සහෝදරිය සෙවනැල්ල කරයි, ඇය ඔහුට උපදෙස් ලබා දෙන අතර පැරණි හඳුනන අයෙකු සමඟ නැවත සම්බන්ධ වීමට ඔහුව දිරිමත් කරයි.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-06', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+case 'sandman-e7' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) |  යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 7 (The Doll's House)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - n/a*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 462𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*Lucienne Morpheus වෙත පැමිණෙන්නේ කලබලකාරී පුවතක් සමඟිනි. රෝස් වෝකර් පවුල සොයා යයි. කොරින්තිවරුන්ගේ රසිකයෝ ඔහුගේ අවධානය ලබා ගැනීමට යෝජනා කරති.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-07', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+
+case 'sandman-e8' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) |  යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 8 (Playing House)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - n/a*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 634𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*Morpheus ඔහුගේ අතුරුදහන් වූ එක් නිර්මාණයක් අවසන් කරන විට, රෝස් ඇගේ සහෝදරයා සොයා ගැනීමට උත්සාහ කරයි - සහ නොදැනුවත්වම මිතුරෙකුගේ සිහිනය සැබෑ කරයි.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-08', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+
+
+case 'sandman-e9' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) |  යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 9 (Collectors)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - n/a*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 519𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*අමුතු කැළඹීම් ද ඩ්‍රීමිං සොලවයි, රෝස් නව මිතුරෙකු සමඟ මාර්ග චාරිකාවකට පිටත් වේ, සහ කොරින්තියන් අමුත්තෙකු සමඟ බියකරු සමුළුවකට පැමිණේ.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-09', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+
+
+
+
+
+case 'sandman-10' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `*💤... 𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 (2022) |  යුක්තියේ නිද්‍රාව ...💤*
+
+
+*🎯 🄸🄼🄳🄱 - 7.8/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 86%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙵𝙰𝙽𝚃𝙰𝚂𝚈/𝙳𝚁𝙰𝙼𝙰*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 192𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜 1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝙳𝙻*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 10 (Lost Hearts)*
+*⏳ 𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - n/a*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 492𝙼𝙱*
+
+
+*𝙰𝚋𝚘𝚞𝚝 𝚂𝚝𝚘𝚛𝚢 ↠*
+
+
+*Dream wortex වඩාත් බලවත් ලෙස වර්ධනය වන අතර ප්රාන්ත අතර බිත්ති දුර්වල වන විට, රෝස් දුෂ්කර තේරීමක් කළ යුතුය. Morpheus ද කොරින්තියන් සමඟ ගැටෙයි.*
+
+⚔️🛡️ Fire tv series ⚔️🛡️`
+
+                let buttons = [
+                    {buttonId: 'ft-id2-10', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break
+
+// JavaScript Document		
 
 
 
@@ -1460,6 +2086,22 @@ join this group. ✔️`)
              if (/bad-boys/.test(command)) link = 'https://drive.google.com/u/1/uc?id=1NyFoXyvd-rDVcR6DNEovSqxkGRYpb3uq&export=download&confirm=t&uuid=96adc9ac-2157-4498-b36a-1fd7fa2653d8'
 
 
+	
+//tv-the-sandbox
+	
+             if (/ft-id2-01/.test(command)) link = 'https://drive.google.com/u/3/uc?id=1uDpqZ6QqsdZvjJQ6A-apuz-StbUe0Yzs&export=download&confirm=t&uuid=990abf89-6456-43b9-b895-d1354eef0e32'
+             if (/ft-id2-02/.test(command)) link = 'https://drive.google.com/u/3/uc?id=1dLvNSXj6LMyDitPs9OSn22ld-75NgTfW&export=download&confirm=t&uuid=ca8dfe87-af6a-4bb4-b429-5f882efd9f9a'
+             if (/ft-id2-03/.test(command)) link = 'https://drive.google.com/u/3/uc?id=1kdhrFyUQQ1fmgwmcKQjT6koE1cZS3JL-&export=download&confirm=t&uuid=93b25650-f05d-45fb-af1f-24fef580b392'
+             if (/ft-id2-04/.test(command)) link = 'https://drive.google.com/u/3/uc?id=1Knvy-9cSkp1xoZ45j1mnMC1YPbQCIy1Z&export=download&confirm=t&uuid=dbf37f13-d777-4399-a6b2-82face07e267'
+             if (/ft-id2-05/.test(command)) link = 'https://drive.google.com/uc?export=download&id=1NpPBytfePC5MuLN2jb0RQ3pud4W1CUB9&confirm=t&uuid=9dce0356-176b-4e4b-b100-110ff40bfa96'
+             if (/ft-id2-06/.test(command)) link = 'https://drive.google.com/uc?export=download&id=1fIILZRvGrUBgBwjl19t6WMZBq4mYoZLo&confirm=t&uuid=2bc037dc-a128-4a13-b085-b3f8a5034e17'
+             if (/ft-id2-07/.test(command)) link = 'https://drive.google.com/uc?export=download&id=1vhEEiUmivzVnKySVegEV5UDi4AJIWhRZ&confirm=t&uuid=61b2c7fa-8fae-4e41-88ac-05fad657974a'
+             if (/ft-id2-08/.test(command)) link = 'https://drive.google.com/uc?export=download&id=1A6r6ynMzLhLpaVQH_n0lVk0UhNacLfWH&confirm=t&uuid=ce57ea5e-bf53-4f64-8168-d6afbde3937f'
+             if (/ft-id2-09/.test(command)) link = 'https://drive.google.com/uc?export=download&id=1C--4oZtFoqYzAGodQAJ2L_Ka0KvzPRlV&confirm=t&uuid=8773d150-1de1-48ab-9b79-ed62c81667c3'
+             if (/ft-id2-10/.test(command)) link = 'https://drive.google.com/uc?export=download&id=1dNZyENcvzSYB5ZoKxjqzVZ494MsIVlJ2&confirm=t&uuid=4cd8abab-1b13-482e-b96a-4460b4f97659'
+
+	
+	
 //tv-series-index-link
              if (/ft-id-01/.test(command)) link = 'https://filebin2.aws.atsign.cloud/tpb87s4kt1t84ra0/She-Hulk.Attorney.at.Law.S01E01.WEB.x264-FilmsZilla.LK.mkv'
 
@@ -1498,7 +2140,20 @@ join this group. ✔️`)
              if (/ft-id-01/.test(command)) name = '𝚂𝙷𝙴 𝙷𝚄𝙻𝙺: 𝙰𝚃𝚃𝙾𝚁𝙽𝙴𝚃𝚈 𝙻𝙰𝚆 (2022) S1 E1 🔥Fire tv series by anony-x bot🔥.mkv'
 
              if (/ft-id1-01/.test(command)) name = '𝙷𝙾𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝚁𝙰𝙶𝙾𝙽 (2022) S1 E1 🔥Fire tv series by anony-x bot🔥.mkv'
+//the sandman
 
+             if (/ft-id2-01/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E1 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-02/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E2 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-03/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E3 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-04/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E4 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-05/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E5 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-06/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E6 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-07/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E7 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-08/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E8 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-09/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E9 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+             if (/ft-id2-10/.test(command)) name = '𝚃𝙷𝙴 𝚂𝙰𝙽𝙳𝙼𝙰𝙽 S1 E10 🔥Fire Films by ᴀɴᴏɴʏ-𝚇 bot🔥.mkv'
+
+	
 
 
 
