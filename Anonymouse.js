@@ -1364,7 +1364,7 @@ join this group. ✔️`)
                 let buttons = [
                     {buttonId: 'sandman-e9', buttonText: {displayText: 'Episode 09'}, type: 1},
                     {buttonId: 'sandman-e10', buttonText: {displayText: 'Episode 10'}, type: 1},
-                    {buttonId: 'sandman-next-3', buttonText: {displayText: 'NEXT'}, type: 1}
+                    {buttonId: 'sandman', buttonText: {displayText: 'NEXT'}, type: 1}
                 ]
                 let buttonMessage = {
                     image: { url: 'https://m.media-amazon.com/images/M/MV5BMTIyZDEzZjEtNjJjNC00MmMzLWE3MmEtYjY1ZDg0YzA1ZWNlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY1200_CR90,0,630,1200_AL_.jpg'},
@@ -2025,7 +2025,20 @@ break
 case 'ft-id-01':
 
 case 'ft-id1-01':
-
+		
+// sand man
+		
+case 'ft-id2-01':
+case 'ft-id2-02':
+case 'ft-id2-03':
+case 'ft-id2-04':
+case 'ft-id2-05':
+case 'ft-id2-06':
+case 'ft-id2-07':
+case 'ft-id2-08':
+case 'ft-id2-09':
+case 'ft-id2-10':
+		
 
 //film link
 
