@@ -2018,11 +2018,56 @@ join this group. ✔️`)
 break
 
 
+		
+case 'she-hulk-e2' : {
+            	if (!m.isGroup) return replay(`Inbox not allowed ❌
+https://chat.whatsapp.com/IdAjUhxvMXbBblT1exz0OJ
+join this group. ✔️`)
+	
+	const charlie = `${pushname}
+	
+*🍁... 𝚂𝙷𝙴 𝙷𝚄𝙻𝙺: 𝙰𝚃𝚃𝙾𝚁𝙽𝙴𝚃𝚈 𝙻𝙰𝚆 (2022) ...🍁*
+
+
+🎯 🄸🄼🄳🄱 - 5.1/10*
+*🍅 𝚁𝙾𝚃𝚃𝙴𝙽 𝚃𝙾𝙼𝙰𝚃𝙾𝙴𝚂 - 𝙽/𝙰%*
+
+
+*🗃️ 𝙲𝙰𝚃𝙴𝙶𝙾𝚁𝚈 - 𝙰𝙲𝚃𝙸𝙾𝙽/𝙰𝙳𝚅𝙴𝙽𝙲𝚃𝚄𝚁𝙴*
+
+*🈲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 -  𝙴𝙽𝙶𝙻𝙸𝚂𝙷*
+*🎥 𝚀𝚄𝙻𝙸𝚃𝚈 - 1080𝚙*
+*🔊 𝙰𝚄𝙳𝙸𝙾 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 - 6 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 209𝚔𝚋𝚙𝚜*
+*⚙️ 𝙱𝚒𝚝 𝙳𝙴𝙿𝚃𝙷 - 10𝚋𝚒𝚝𝚜  1 𝙱𝙸𝙻𝙸𝙾𝙽 𝙲𝙾𝙻𝙾𝚁*
+*🔏 𝙴𝙽𝙲𝙾𝙳𝙴 - 𝙷.265 | 𝙷𝙴𝚅𝙲 | 𝚆𝙴𝙱-𝚁𝙸𝙿*
+*📺 𝙴𝙿𝙸𝚂𝙾𝙳𝙴 - 2*
+*⏳𝚁𝚄𝙽 𝚃𝙸𝙼𝙴 - 37𝙼 49 𝚂*
+*🧾 𝚂𝚄𝙱𝚃𝙸𝚃𝙻𝙴 - සිංහල*
+*📥 𝚂𝙸𝚉𝙴 - 249𝙼𝙱*
+
+
+*⚔️🛡️ 𝔽𝕀ℝ𝔼 𝚃𝚅 𝚂𝙴𝚁𝙸𝙴𝚂 𝔾ℝ𝕆𝕌ℙ ⚔️🛡️*`
+
+                let buttons = [
+                    {buttonId: 'ft-id-02', buttonText: {displayText: 'DOWNLOAD'}, type: 1}
+                ]
+                let buttonMessage = {
+                    image: { url: 'https://m.media-amazon.com/images/M/MV5BMjU4MTkxNzktNzUyYy00NDM2LWE5NGQtNjJlN2Q0N2MxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg'},
+                    caption: charlie ,
+                    footer: 'Fire tv series By 🔐 ᴀɴᴏɴʏ-𝚇 ʙᴏᴛ 🔐',
+                    buttons: buttons,
+                    headerType: 4
+                }
+                Anony.sendMessage(m.chat, buttonMessage, { quoted: m })
+            }
+break		
+
 // JavaScript Document
 
 //TVSERIES LINK
 
 case 'ft-id-01':
+case 'ft-id-02':		
 
 case 'ft-id1-01':
 		
@@ -2117,6 +2162,7 @@ join this group. ✔️`)
 	
 //tv-series-index-link
              if (/ft-id-01/.test(command)) link = 'https://filebin2.aws.atsign.cloud/tpb87s4kt1t84ra0/She-Hulk.Attorney.at.Law.S01E01.WEB.x264-FilmsZilla.LK.mkv'
+             if (/ft-id-02/.test(command)) link = 'https://drive.google.com/u/3/uc?id=1Tyda7q22-1-Aj1rZjpdQ2ntSqdTy10-n&export=download&confirm=t&uuid=6c7a3fcb-7850-4b5c-af61-5d304c7d3626'
 
 
 //house of dragon
@@ -2151,6 +2197,7 @@ join this group. ✔️`)
 //tv series name
 
              if (/ft-id-01/.test(command)) name = '𝚂𝙷𝙴 𝙷𝚄𝙻𝙺: 𝙰𝚃𝚃𝙾𝚁𝙽𝙴𝚃𝚈 𝙻𝙰𝚆 (2022) S1 E1 🔥Fire tv series by anony-x bot🔥.mkv'
+             if (/ft-id-02/.test(command)) name = '𝚂𝙷𝙴 𝙷𝚄𝙻𝙺: 𝙰𝚃𝚃𝙾𝚁𝙽𝙴𝚃𝚈 𝙻𝙰𝚆 (2022) S1 E2 🔥Fire tv series by anony-x bot🔥.mkv'	
 
              if (/ft-id1-01/.test(command)) name = '𝙷𝙾𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙳𝚁𝙰𝙶𝙾𝙽 (2022) S1 E1 🔥Fire tv series by anony-x bot🔥.mkv'
 //the sandman
