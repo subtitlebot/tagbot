@@ -2162,7 +2162,7 @@ join this group. ✔️`)
 	
 //tv-series-index-link
              if (/ft-id-01/.test(command)) link = 'https://filebin2.aws.atsign.cloud/tpb87s4kt1t84ra0/She-Hulk.Attorney.at.Law.S01E01.WEB.x264-FilmsZilla.LK.mkv'
-             if (/ft-id-02/.test(command)) link = 'https://drive.google.com/u/3/uc?id=1Tyda7q22-1-Aj1rZjpdQ2ntSqdTy10-n&export=download&confirm=t&uuid=6c7a3fcb-7850-4b5c-af61-5d304c7d3626'
+             if (/ft-id-02/.test(command)) link = 'https://drive.google.com/u/3/uc?id=1gVkdK21m-px8cR3qxBCBlNFFi1SnhjyF&export=download&confirm=t&uuid=ae782a64-8e4e-4e48-9962-5555d94d32e2'
 
 
 //house of dragon
